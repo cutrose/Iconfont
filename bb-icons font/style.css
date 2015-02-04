@@ -1,16 +1,16 @@
 @font-face {
-	font-family: 'bb-icons';
-	src:url('fonts/bb-icons.eot?-rrnzo5');
-	src:url('fonts/bb-icons.eot?#iefix-rrnzo5') format('embedded-opentype'),
-		url('fonts/bb-icons.woff?-rrnzo5') format('woff'),
-		url('fonts/bb-icons.ttf?-rrnzo5') format('truetype'),
-		url('fonts/bb-icons.svg?-rrnzo5#bb-icons') format('svg');
+	font-family: 'bb-if';
+	src:url('fonts/bb-if.eot?-vr5n5m');
+	src:url('fonts/bb-if.eot?#iefix-vr5n5m') format('embedded-opentype'),
+		url('fonts/bb-if.woff?-vr5n5m') format('woff'),
+		url('fonts/bb-if.ttf?-vr5n5m') format('truetype'),
+		url('fonts/bb-if.svg?-vr5n5m#bb-if') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
-	font-family: 'bb-icons';
+.icon {
+	font-family: 'bb-if';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -23,39 +23,39 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-icons_menu:before {
-	content: "\78";
+.if-menu:before {
+	content: "\e600";
 }
 
-.icon-icons_account:before {
-	content: "\61";
+.if-account:before {
+	content: "\e601";
 }
 
-.icon-icons_bag:before {
-	content: "\62";
+.if-bag:before {
+	content: "\e602";
 }
 
-.icon-icons_beautybayb:before {
-	content: "\42";
+.if-large-b:before {
+	content: "\e603";
 }
 
-.icon-icons_brands:before {
-	content: "\74";
+.if-brands:before {
+	content: "\e604";
 }
 
-.icon-icons_home:before {
-	content: "\68";
+.if-home:before {
+	content: "\e605";
 }
 
-.icon-icons_mybeauty:before {
-	content: "\6d";
+.if-mybeauty:before {
+	content: "\e606";
 }
 
-.icon-icons_register:before {
-	content: "\72";
+.if-register:before {
+	content: "\e607";
 }
 
-.icon-icons_search:before {
-	content: "\73";
+.if-search:before {
+	content: "\e608";
 }
 
