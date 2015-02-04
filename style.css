@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'bb-if';
-	src:url('fonts/bb-if.eot?-vr5n5m');
-	src:url('fonts/bb-if.eot?#iefix-vr5n5m') format('embedded-opentype'),
-		url('fonts/bb-if.woff?-vr5n5m') format('woff'),
-		url('fonts/bb-if.ttf?-vr5n5m') format('truetype'),
-		url('fonts/bb-if.svg?-vr5n5m#bb-if') format('svg');
+	src:url('fonts/bb-if.eot?f2xo8o');
+	src:url('fonts/bb-if.eot?#iefixf2xo8o') format('embedded-opentype'),
+		url('fonts/bb-if.woff?f2xo8o') format('woff'),
+		url('fonts/bb-if.ttf?f2xo8o') format('truetype'),
+		url('fonts/bb-if.svg?f2xo8o#bb-if') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -57,5 +57,37 @@
 
 .if-search:before {
 	content: "\e608";
+}
+
+.if-arrow-d:before {
+	content: "\e609";
+}
+
+.if-arrow-l:before {
+	content: "\e60a";
+}
+
+.if-arrow-r:before {
+	content: "\e60b";
+}
+
+.if-arrow-u:before {
+	content: "\e60c";
+}
+
+.if-close-large:before {
+	content: "\e60d";
+}
+
+.if-close-small:before {
+	content: "\e60e";
+}
+
+.if-hazmat:before {
+	content: "\e60f";
+}
+
+.if-wishlist:before {
+	content: "\e610";
 }
 
