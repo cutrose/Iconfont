@@ -1,0 +1,61 @@
+@font-face {
+	font-family: 'bb-icons';
+	src:url('fonts/bb-icons.eot?-rrnzo5');
+	src:url('fonts/bb-icons.eot?#iefix-rrnzo5') format('embedded-opentype'),
+		url('fonts/bb-icons.woff?-rrnzo5') format('woff'),
+		url('fonts/bb-icons.ttf?-rrnzo5') format('truetype'),
+		url('fonts/bb-icons.svg?-rrnzo5#bb-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'bb-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icons_menu:before {
+	content: "\78";
+}
+
+.icon-icons_account:before {
+	content: "\61";
+}
+
+.icon-icons_bag:before {
+	content: "\62";
+}
+
+.icon-icons_beautybayb:before {
+	content: "\42";
+}
+
+.icon-icons_brands:before {
+	content: "\74";
+}
+
+.icon-icons_home:before {
+	content: "\68";
+}
+
+.icon-icons_mybeauty:before {
+	content: "\6d";
+}
+
+.icon-icons_register:before {
+	content: "\72";
+}
+
+.icon-icons_search:before {
+	content: "\73";
+}
+
