@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'bb-if';
-	src:url('fonts/bb-if.eot?-akphr2');
-	src:url('fonts/bb-if.eot?#iefix-akphr2') format('embedded-opentype'),
-		url('fonts/bb-if.woff?-akphr2') format('woff'),
-		url('fonts/bb-if.ttf?-akphr2') format('truetype'),
-		url('fonts/bb-if.svg?-akphr2#bb-if') format('svg');
+	src:url('fonts/bb-if.eot?3bu19x');
+	src:url('fonts/bb-if.eot?#iefix3bu19x') format('embedded-opentype'),
+		url('fonts/bb-if.woff?3bu19x') format('woff'),
+		url('fonts/bb-if.ttf?3bu19x') format('truetype'),
+		url('fonts/bb-if.svg?3bu19x#bb-if') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -24,7 +24,7 @@
 }
 
 .if-menu:before {
-	content: "\e600";
+	content: "\2261";
 }
 
 .if-account:before {
@@ -33,6 +33,10 @@
 
 .if-bag:before {
 	content: "\e602";
+}
+
+.if-mybeauty:before {
+	content: "\e606";
 }
 
 .if-large-b:before {
@@ -47,10 +51,6 @@
 	content: "\e605";
 }
 
-.if-mybeauty:before {
-	content: "\e606";
-}
-
 .if-register:before {
 	content: "\e607";
 }
@@ -60,27 +60,27 @@
 }
 
 .if-arrow-d:before {
-	content: "\e609";
+	content: "\25be";
 }
 
 .if-arrow-l:before {
-	content: "\e60a";
+	content: "\25c2";
 }
 
 .if-arrow-r:before {
-	content: "\e60b";
+	content: "\25b8";
 }
 
 .if-arrow-u:before {
-	content: "\e60c";
+	content: "\25b4";
 }
 
 .if-close-large:before {
-	content: "\e60d";
+	content: "\2715";
 }
 
 .if-close-small:before {
-	content: "\e60e";
+	content: "\78";
 }
 
 .if-hazmat:before {
@@ -88,6 +88,42 @@
 }
 
 .if-wishlist:before {
-	content: "\e610";
+	content: "\2665";
+}
+
+.if-icons_geotarget:before {
+	content: "\e600";
+}
+
+.if-icons_review-star:before {
+	content: "\2605";
+}
+
+.if-icons_checkmark:before {
+	content: "\2713";
+}
+
+.if-icons_social-fb:before {
+	content: "\e612";
+}
+
+.if-icons_social-yt:before {
+	content: "\e613";
+}
+
+.if-icons_social-tw:before {
+	content: "\e614";
+}
+
+.if-icons_social-pt:before {
+	content: "\e615";
+}
+
+.if-icons_social-in:before {
+	content: "\e616";
+}
+
+.if-icons_social-gp:before {
+	content: "\e617";
 }
 
