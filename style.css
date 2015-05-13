@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'bb-if';
-	src:url('fonts/bb-if.eot?-4b9e7g');
-	src:url('fonts/bb-if.eot?#iefix-4b9e7g') format('embedded-opentype'),
-		url('fonts/bb-if.woff?-4b9e7g') format('woff'),
-		url('fonts/bb-if.ttf?-4b9e7g') format('truetype'),
-		url('fonts/bb-if.svg?-4b9e7g#bb-if') format('svg');
+	src:url('fonts/bb-if.eot?-xh5xah');
+	src:url('fonts/bb-if.eot?#iefix-xh5xah') format('embedded-opentype'),
+		url('fonts/bb-if.woff?-xh5xah') format('woff'),
+		url('fonts/bb-if.ttf?-xh5xah') format('truetype'),
+		url('fonts/bb-if.svg?-xh5xah#bb-if') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -35,7 +35,7 @@
 	content: "\e602";
 }
 
-.if-mybeauty:before {
+.if-editorial:before {
 	content: "\e603";
 }
 
@@ -43,7 +43,7 @@
 	content: "\e604";
 }
 
-.if-brands:before {
+.if-tag:before {
 	content: "\e605";
 }
 
@@ -87,7 +87,7 @@
 	content: "\e60a";
 }
 
-.if-wishlist:before {
+.if-heart:before {
 	content: "\e60b";
 }
 
@@ -141,5 +141,13 @@
 
 .if-arrow-bold-r:before {
 	content: "\e61d";
+}
+
+.if-sun:before {
+	content: "\e61c";
+}
+
+.if-wedding:before {
+	content: "\e61e";
 }
 
