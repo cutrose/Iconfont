@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'bb-if';
-	src:url('fonts/bb-if.eot?w53mr4');
-	src:url('fonts/bb-if.eot?#iefixw53mr4') format('embedded-opentype'),
-		url('fonts/bb-if.woff?w53mr4') format('woff'),
-		url('fonts/bb-if.ttf?w53mr4') format('truetype'),
-		url('fonts/bb-if.svg?w53mr4#bb-if') format('svg');
+	src:url('fonts/bb-if.eot?-1vhj4p');
+	src:url('fonts/bb-if.eot?#iefix-1vhj4p') format('embedded-opentype'),
+		url('fonts/bb-if.woff?-1vhj4p') format('woff'),
+		url('fonts/bb-if.ttf?-1vhj4p') format('truetype'),
+		url('fonts/bb-if.svg?-1vhj4p#bb-if') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -26,128 +26,108 @@
 .if-menu:before {
 	content: "\2630";
 }
-
+.if-icons_menu-d:before {
+	content: "\e61f";
+}
+.if-icons_menu-u:before {
+	content: "\e620";
+}
 .if-account:before {
 	content: "\e601";
 }
-
 .if-bag:before {
 	content: "\e602";
 }
-
 .if-editorial:before {
 	content: "\e603";
 }
-
 .if-large-b:before {
 	content: "\e604";
 }
-
 .if-tag:before {
 	content: "\e605";
 }
-
 .if-home:before {
 	content: "\e60f";
 }
-
 .if-register:before {
 	content: "\e60e";
 }
-
 .if-search:before {
 	content: "\e608";
 }
-
+.if-icons_zoom:before {
+	content: "\e621";
+}
+.if-icons_add:before {
+	content: "\e622";
+}
 .if-arrow-d:before {
 	content: "\e600";
 }
-
 .if-arrow-l:before {
 	content: "\e607";
 }
-
 .if-arrow-r:before {
 	content: "\e606";
 }
-
 .if-arrow-u:before {
 	content: "\e614";
 }
-
-.if-close-large:before {
-	content: "\e610";
-}
-
-.if-close-small:before {
-	content: "\e609";
-}
-
-.if-hazmat:before {
-	content: "\e60a";
-}
-
-.if-heart:before {
-	content: "\e60b";
-}
-
-.if-review-star:before {
-	content: "\e60c";
-}
-
-.if-checkmark:before {
-	content: "\e60d";
-}
-
 .if-accordion-r:before {
 	content: "\e611";
 }
-
 .if-accordion-l:before {
 	content: "\e612";
 }
-
+.if-close-large:before {
+	content: "\e610";
+}
+.if-close-small:before {
+	content: "\e609";
+}
+.if-hazmat:before {
+	content: "\e60a";
+}
+.if-heart:before {
+	content: "\e60b";
+}
+.if-review-star:before {
+	content: "\e60c";
+}
+.if-checkmark:before {
+	content: "\e60d";
+}
 .if-geotarget:before {
 	content: "\e613";
 }
-
 .if-social-fb:before {
 	content: "\e615";
 }
-
 .if-social-tw:before {
 	content: "\e616";
 }
-
 .if-social-gp:before {
 	content: "\e617";
 }
-
 .if-social-yt:before {
 	content: "\e618";
 }
-
 .if-social-pt:before {
 	content: "\e619";
 }
-
 .if-social-in:before {
 	content: "\e61a";
 }
-
 .if-sale:before {
 	content: "\e61b";
 }
-
 .if-arrow-bold-r:before {
 	content: "\e61d";
 }
-
 .if-sun:before {
 	content: "\e61c";
 }
-
 .if-wedding:before {
 	content: "\e61e";
 }
-
