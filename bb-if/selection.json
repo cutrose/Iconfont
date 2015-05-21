@@ -18,7 +18,10 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"icons_menu"
+					"open",
+					"menu",
+					"list",
+					"right"
 				],
 				"grid": 32
 			},
@@ -56,7 +59,10 @@
 				"isMulticolor": false,
 				"grid": 32,
 				"tags": [
-					"icons_menu-d"
+					"open",
+					"menu",
+					"list",
+					"down"
 				]
 			},
 			"attrs": [
@@ -70,7 +76,7 @@
 				"id": 33,
 				"prevSize": 32,
 				"code": 58911,
-				"name": "icons_menu-d"
+				"name": "menu-d"
 			},
 			"setIdx": 0,
 			"setId": 2,
@@ -93,7 +99,10 @@
 				"isMulticolor": false,
 				"grid": 32,
 				"tags": [
-					"icons_menu-u"
+					"open",
+					"menu",
+					"list",
+					"up"
 				]
 			},
 			"attrs": [
@@ -107,7 +116,7 @@
 				"id": 32,
 				"prevSize": 32,
 				"code": 58912,
-				"name": "icons_menu-u"
+				"name": "menu-u"
 			},
 			"setIdx": 0,
 			"setId": 2,
@@ -123,7 +132,8 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"icons_account"
+					"account",
+					"user"
 				],
 				"grid": 32
 			},
@@ -162,7 +172,9 @@
 					]
 				},
 				"tags": [
-					"icons_bag"
+					"bag",
+					"checkout",
+					"shopping"
 				],
 				"grid": 32
 			},
@@ -202,7 +214,10 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"icons_editorial"
+					"book",
+					"editorial",
+					"edited",
+					"heart"
 				],
 				"grid": 32
 			},
@@ -242,7 +257,8 @@
 					]
 				},
 				"tags": [
-					"icons_large-b"
+					"beauty",
+					"bay"
 				],
 				"grid": 32
 			},
@@ -278,7 +294,10 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"icons_tag"
+					"tag",
+					"brands",
+					"a",
+					"z"
 				],
 				"grid": 32
 			},
@@ -316,7 +335,9 @@
 					]
 				},
 				"tags": [
-					"icons_home"
+					"home",
+					"homepage",
+					"house"
 				],
 				"grid": 32
 			},
@@ -353,7 +374,9 @@
 					]
 				},
 				"tags": [
-					"icons_register"
+					"register",
+					"edit",
+					"sign in"
 				],
 				"grid": 32
 			},
@@ -390,7 +413,8 @@
 					]
 				},
 				"tags": [
-					"icons_search"
+					"search",
+					"magnify"
 				],
 				"grid": 32
 			},
@@ -423,7 +447,9 @@
 				"isMulticolor": false,
 				"grid": 32,
 				"tags": [
-					"icons_zoom"
+					"search",
+					"magnify",
+					"zoom"
 				]
 			},
 			"attrs": [
@@ -435,7 +461,7 @@
 				"id": 34,
 				"prevSize": 32,
 				"code": 58913,
-				"name": "icons_zoom"
+				"name": "zoom"
 			},
 			"setIdx": 0,
 			"setId": 2,
@@ -454,7 +480,9 @@
 				"isMulticolor": false,
 				"grid": 32,
 				"tags": [
-					"icons_add"
+					"add",
+					"new",
+					"plus"
 				]
 			},
 			"attrs": [
@@ -466,7 +494,7 @@
 				"id": 35,
 				"prevSize": 32,
 				"code": 58914,
-				"name": "icons_add"
+				"name": "add"
 			},
 			"setIdx": 0,
 			"setId": 2,
@@ -489,7 +517,8 @@
 					]
 				},
 				"tags": [
-					"icons_arrow-d"
+					"arrow",
+					"down"
 				],
 				"grid": 32
 			},
@@ -526,7 +555,8 @@
 					]
 				},
 				"tags": [
-					"icons_arrow-l"
+					"arrow",
+					"left"
 				],
 				"grid": 32
 			},
@@ -563,7 +593,8 @@
 					]
 				},
 				"tags": [
-					"icons_arrow-r"
+					"arrow",
+					"right"
 				],
 				"grid": 32
 			},
@@ -600,7 +631,8 @@
 					]
 				},
 				"tags": [
-					"icons_arrow-u"
+					"arrow",
+					"up"
 				],
 				"grid": 32
 			},
@@ -635,7 +667,9 @@
 					]
 				},
 				"tags": [
-					"icons_accordion-r"
+					"arrow",
+					"right",
+					"big"
 				],
 				"grid": 32
 			},
@@ -668,7 +702,9 @@
 					]
 				},
 				"tags": [
-					"icons_accordion-l"
+					"arrow",
+					"left",
+					"big"
 				],
 				"grid": 32
 			},
@@ -703,7 +739,10 @@
 					]
 				},
 				"tags": [
-					"icons_close-large"
+					"x",
+					"close",
+					"esc",
+					"big"
 				],
 				"grid": 32
 			},
@@ -740,7 +779,10 @@
 					]
 				},
 				"tags": [
-					"icons_close-small"
+					"x",
+					"close",
+					"esc",
+					"small"
 				],
 				"grid": 32
 			},
@@ -772,7 +814,9 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"icons_hazmat"
+					"hazmat",
+					"plane",
+					"problem"
 				],
 				"grid": 32
 			},
@@ -801,7 +845,9 @@
 				],
 				"isMulticolor": false,
 				"tags": [
-					"icons_heart"
+					"heart",
+					"love",
+					"wish"
 				],
 				"grid": 32
 			},
@@ -836,7 +882,8 @@
 					]
 				},
 				"tags": [
-					"icons_review-star"
+					"star",
+					"review"
 				],
 				"grid": 32
 			},
@@ -873,7 +920,8 @@
 					]
 				},
 				"tags": [
-					"icons_checkmark"
+					"checkmark",
+					"tick"
 				],
 				"grid": 32
 			},
@@ -910,7 +958,9 @@
 					]
 				},
 				"tags": [
-					"icons_geotarget"
+					"target",
+					"geo",
+					"ip"
 				],
 				"grid": 32
 			},
@@ -947,7 +997,8 @@
 					]
 				},
 				"tags": [
-					"icons_social-fb"
+					"fb",
+					"facebook"
 				],
 				"grid": 32
 			},
@@ -984,7 +1035,8 @@
 					]
 				},
 				"tags": [
-					"icons_social-tw"
+					"tw",
+					"twitter"
 				],
 				"grid": 32
 			},
@@ -1021,7 +1073,8 @@
 					]
 				},
 				"tags": [
-					"icons_social-gp"
+					"google",
+					"plus"
 				],
 				"grid": 32
 			},
@@ -1058,7 +1111,8 @@
 					]
 				},
 				"tags": [
-					"icons_social-yt"
+					"youtube",
+					"tube"
 				],
 				"grid": 32
 			},
@@ -1095,7 +1149,8 @@
 					]
 				},
 				"tags": [
-					"icons_social-pt"
+					"pintrest",
+					"pi"
 				],
 				"grid": 32
 			},
@@ -1132,7 +1187,8 @@
 					]
 				},
 				"tags": [
-					"icons_social-in"
+					"in",
+					"instagram"
 				],
 				"grid": 32
 			},
@@ -1179,7 +1235,10 @@
 					]
 				},
 				"tags": [
-					"icons_sale"
+					"stars",
+					"sale",
+					"offer",
+					"offers"
 				],
 				"grid": 32
 			},
@@ -1212,7 +1271,9 @@
 				"isMulticolor": false,
 				"grid": 32,
 				"tags": [
-					"icons_arrow-bold-r"
+					"arrow",
+					"bold",
+					"emphasis"
 				]
 			},
 			"attrs": [
@@ -1242,7 +1303,9 @@
 				"isMulticolor": false,
 				"grid": 32,
 				"tags": [
-					"icons_sun"
+					"sun",
+					"shine",
+					"hot"
 				]
 			},
 			"attrs": [
@@ -1275,7 +1338,8 @@
 				"isMulticolor": false,
 				"grid": 32,
 				"tags": [
-					"icons_wedding"
+					"wedding",
+					"rings"
 				]
 			},
 			"attrs": [
@@ -1329,7 +1393,8 @@
 			"png": true,
 			"useClassSelector": true,
 			"color": 4473924,
-			"bgColor": 16777215
+			"bgColor": 16777215,
+			"classSelector": ".icon"
 		},
 		"historySize": 100,
 		"showCodes": true,
