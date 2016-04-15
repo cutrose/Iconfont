@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'bb-if';
-    src:    url('fonts/bb-if.eot?iyu7wn');
-    src:    url('fonts/bb-if.eot?iyu7wn#iefix') format('embedded-opentype'),
-        url('fonts/bb-if.ttf?iyu7wn') format('truetype'),
-        url('fonts/bb-if.woff?iyu7wn') format('woff'),
-        url('fonts/bb-if.svg?iyu7wn#bb-if') format('svg');
+    src:    url('fonts/bb-if.eot?qhe09c');
+    src:    url('fonts/bb-if.eot?qhe09c#iefix') format('embedded-opentype'),
+        url('fonts/bb-if.ttf?qhe09c') format('truetype'),
+        url('fonts/bb-if.woff?qhe09c') format('woff'),
+        url('fonts/bb-if.svg?qhe09c#bb-if') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,6 +24,9 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.if-video-play:before {
+    content: "\25b6";
+}
 .if-bin:before {
     content: "\e901";
 }
